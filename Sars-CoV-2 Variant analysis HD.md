@@ -1,4 +1,4 @@
-# SARS-CoV-2 Omicron Variant Analysis
+project_report.md
 
 ## BIOLSC903 – Bioinformatics Analysis on the Command Line
 
